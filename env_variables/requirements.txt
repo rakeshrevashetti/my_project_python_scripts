@@ -1,0 +1,3 @@
+We need dotenv package and load_dotenv module
+
+we also need os package and sys module with getenv 
